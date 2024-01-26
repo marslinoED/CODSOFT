@@ -6,4 +6,4 @@ git add .
 git commit -m "$commit_message"
 git push
 ((loober++))
-echo "$loober" > ../../counter.txt
+echo "$loober" > ~/counter.txt
